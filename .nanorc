@@ -4,7 +4,6 @@ set autoindent
 set tabstospaces
 set tabsize 4
 set multibuffer
-set smooth
 
 include "~/.nano/apacheconf.nanorc"
 include "~/.nano/arduino.nanorc"
